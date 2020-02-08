@@ -1,5 +1,5 @@
 Package: classdata
-Version: 0.0.1
+Version: 0.0.2
 Title: Data Used in Course Work
 Description: Data sets used for work in some of my ISU classes.
 Authors@R: 
@@ -11,6 +11,6 @@ LazyData: true
 Collate: 
     'data.R'
 VignetteBuilder: knitr
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 Roxygen: list(markdown = TRUE)
 Encoding: UTF-8

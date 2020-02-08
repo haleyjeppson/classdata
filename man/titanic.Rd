@@ -12,7 +12,7 @@
 \item{Survived}{Yes/No.}
 }}
 \usage{
-titanic
+data(titanic)
 }
 \description{
 A dataset containing some demographics and survival of people on board the Titanic
