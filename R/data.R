@@ -147,37 +147,3 @@
 #' @format A data frame with 22 variables
 "earthquakes"
 
-#' Iowa alcohol sales
-#'
-#' A dataset containing liquor sales?
-#' @format A data frame with 466126 rows and 24 variables:
-#' \describe{
-#'   \item{Invoice/Item Number}{Invoice number}
-#'   \item{Date}{Date of sale}
-#'   \item{Store Number}{store identifier}
-#'   \item{Store Name}{name of store}
-#'   \item{Address}{address of store}
-#'   \item{City}{city location of store}
-#'   \item{Zip Code}{zip code of store}
-#'   \item{Store Location}{long and lat of store}
-#'   \item{County Number}{county number of store}
-#'   \item{County}{county of store}
-#'   \item{Category}{Category number of liquor}
-#'   \item{Category Name}{Category name of liquor}
-#'   \item{Vendor Number}{number of vendor}
-#'   \item{Vendor Name}{name of vendor}
-#'   \item{Item Number}{item number}
-#'   \item{Item Description}{item description}
-#'   \item{Pack}{size of pack}
-#'   \item{Bottle Volume (ml)}{volume size}
-#'   \item{State Bottle Cost}{cost of item}
-#'   \item{State Bottle Retail}{retail cost of item}
-#'   \item{Bottles Sold}{number of bottles sold}
-#'   \item{Sale (Dollars)}{sales}
-#'   \item{Volume Sold (Liters)}{volume sold in liters}
-#'   \item{Volume Sold (Gallons)}{volume sold in gallons}
-#' }
-#' @keywords datasets
-#' @name alcohol
-#' @usage data(alcohol)
-"alcohol"
